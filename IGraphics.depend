@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646908330 c:\users\mimi\documents\new\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1646905413 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1563940332 source:c:\igraphics-master\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646958732 c:\igraphics-master\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563943932 c:\igraphics-master\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563943932 c:\igraphics-master\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 c:\igraphics-master\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1646958814 source:c:\igraphics-master\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563943932 source:c:\igraphics-master\igraphics-master\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1649851092 source:c:\igraphics-master\igraphics-master\igraphics-master\imain.cpp
+	"iGraphics.h"
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1563943932 source:c:\igraphics-master\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1646955814 source:c:\igraphics-master\igraphics-master\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
