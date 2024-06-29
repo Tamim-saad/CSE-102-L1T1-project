@@ -1,5 +1,18 @@
 # iMain is the main code for the project , rest files are need to be included in same folder to run the iMain correctly
 
+# Overview:
+"Mission Antarctica Impossible" is a fun and challenging mini-game set in the icy landscapes of Antarctica. Developed as part of our Level-1, Term-1 coursework at BUET, this project was a collaborative effort with a fellow student.
+
+# Project Details:
+Development Time: 4 weeks
+Collaboration: Team project
+Technologies Used: C language, iGraphics
+
+# Key Features:
+Exciting Gameplay: Navigate through icy terrains and overcome obstacles to complete missions.
+Visual Appeal: Created stunning graphics and animations using iGraphics.
+Challenging Levels: Enjoy an engaging storyline with progressively harder levels.
+
 # IGraphics
 This is the repository for IGraphics library. IGraphics is a thin wrapper on top of OpenGL. This can be used for simple 2D graphics demonstrations, project work for C programming language course
 
